@@ -1,0 +1,93 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Rubik+Moonrocks&family=Splash&display=swap'); */
+
+body{background-color: black;}
+
+.q1{
+    /* font-family: 'Dancing Script', cursive; */
+    font-size: 240px;
+    margin-left:560px;
+   
+}
+i:hover{
+    background-color: antiquewhite;
+    color: black;
+
+}
+a:hover{
+    background-color: antiquewhite;
+    color: black;
+}
+a{color: burlywood;}
+
+.r1{margin-left: 1574px;
+font-size: 45px;
+margin-top: -111px;
+color: white;
+}
+.s1{
+    background-image: url(./img/1039801-download-free-coffee-cup-wallpaper-2560x1440-for-mac.jpg);
+height: 1200px;
+width: 2300px;
+}
+h1{ color: white;
+    margin-left: 377px;
+font-size: 70px;
+margin-top: 32px;}
+p{
+font-size: 133px;
+color: white;
+margin-top: 8px;
+margin-left: 500px;
+
+}
+h4{text-align: center;
+    color: white;
+    font-size: 51px;
+}
+.row{
+    /* width: 801%; */
+    height: 600px;
+    /* background-color: aquamarine; */
+    display: flex;
+    /* justify-content: space-between; */
+    justify-content: space-evenly;
+    /* justify-content: space-around;
+    justify-content: end;
+    justify-content: start; */
+    align-items:center;
+}
+.col{
+    width: 398px;
+    height:380px;
+    border: 2px solid black;
+}
+.col-1{
+
+    background-color: rgb(161, 116, 57);
+}
+.col-2{
+    background-color: rgb(161, 116, 57);
+}
+.col-3{
+    background-color: rgb(161, 116, 57);
+}
+.col-4{
+    background-color: rgb(161, 116, 57);
+}
+
+.f1{
+    height: 300px;
+    width: 200px;
+    display: flex;
+   margin-left:308px;
+    padding: 50px;
+    
+}
+img{
+    border-radius: 10px;
+}
+.h1{
+    background-color: rgb(161, 116, 57);
+    color: rgb(246, 243, 243);
+    font-size: large;
+}
